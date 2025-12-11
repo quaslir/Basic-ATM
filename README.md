@@ -12,7 +12,7 @@ The program demonstrates **modular code structure**, **input validation**, and *
 ## 🚀 Build & Run
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/quaslir/Basic-ATM
 cd <repo-name>
 
 # Compile
